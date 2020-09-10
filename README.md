@@ -5,7 +5,7 @@ We  introduce a new large image dataset, named **Aerial Image-Map Cross-Modal Ma
 
 <div  align="center">    
 
- <img src="https://github.com/CSLab113/City-8-Dataset/blob/master/Images/dataset_shown.png" width = "600" height = "400" alt="he AIMCM dataset is collected from 8 cities. The styles of architectural and scene change greatly in different citiesin our dataset" align=center />
+ <img src="https://github.com/CSLab113/City-8-Dataset/blob/master/Images/dataset_shown.png" width = "700" height = "400" alt="he AIMCM dataset is collected from 8 cities. The styles of architectural and scene change greatly in different citiesin our dataset" align=center />
  </div>
 
 ## Data
