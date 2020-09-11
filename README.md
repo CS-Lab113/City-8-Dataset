@@ -32,4 +32,4 @@ You can download from  [here](https://mailnwpueducn-my.sharepoint.com/:f:/g/pers
 Note that the dataset is ONLY permitted to be used for research. Don't distribute.
 
 ## Contact
-If you have any questions, send me an email (xwzhang@nwpu.edu.cn)
+If you have any questions, send me an email (xwzhang@nwpu.edu.cn).
