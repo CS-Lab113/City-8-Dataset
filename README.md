@@ -13,8 +13,10 @@ Specifically,  more  than  120k pairs  of images  are collected  from8 cities in
  <img src="https://github.com/CSLab113/City-8-Dataset/blob/master/Images/dataset_shown.png" width = "700" height = "400" align=center />
  </div>
  
- 
-More detailed statistics are shown as following:
+
+
+
+More detailed statistics are shown in the table below.
  
  
  <div  align="center">    
