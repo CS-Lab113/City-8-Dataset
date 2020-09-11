@@ -5,12 +5,12 @@
 This a new large image dataset, named **Aerial Image-Map Cross-Modal Matching (AIMCM)** dataset. <br>
 
 ## Data Description
-Specifically,  more  than  120k pairs  of images  are collected  from8 cities in the United States and China, including Beijing,Xi’an, New York, Seattle, Los Angeles, New    Orleans, Den-ver and Orlando. 
+Specifically,  more  than  120k pairs  of images  are collected  from8 cities in the United States and China, including Beijing,Xi’an, New York, Seattle, Los Angeles, New    Orleans, Den-ver and Orlando. Considering the difference of culture, the United States and China are selected, since they are two typical countries in west and East, respectively.
 
 
 <div  align="center">    
 
- <img src="https://github.com/CSLab113/City-8-Dataset/blob/master/Images/dataset_shown.png" width = "700" height = "400" alt="The AIMCM dataset is collected from 8 cities. The styles of architectural and scene change greatly in different citiesin our dataset" align=center />
+ <img src="https://github.com/CSLab113/City-8-Dataset/blob/master/Images/dataset_shown.png" width = "700" height = "400" align=center />
  </div>
  
  
