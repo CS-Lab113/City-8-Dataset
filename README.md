@@ -26,7 +26,7 @@ More detailed statistics are shown in the table below.
 
 ##  Data Access
 
-You can download from  [here](https://mailnwpueducn-my.sharepoint.com/:f:/g/personal/xcmeng_mail_nwpu_edu_cn/ErX8Gs9NNs5Bk5xm0tmdkIwB8wnwUqg9_lkLjkm2LsAvHA?e=rumXMw) and unzip them.
+Contact me for the dataset, xcmeng@mail.nwpu.edu.cn.
 
 
 Note that the dataset is ONLY permitted to be used for research. Don't distribute.
